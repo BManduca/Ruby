@@ -1,0 +1,20 @@
+Ruby
+
+ - linguagem orientada a objetos (tudo em ruby é um objeto)
+ - tipagem dinâmica (descobre o tipo do objeto em tempo de execução)
+ - permite reflexão
+ - Metaprogramação
+ - linguagem interpretada - interpretada em tempo de execução (MRI - Matz´s Ruby Interpreter) -> interpretador escrito por Matsumoto
+ 
+ Windows: 
+ - abra o terminal após instalar
+ - ruby -v
+
+MAC OS / Linux:
+ - entrar no site rvm.io
+ - copiar os codigos presentes no site e executar no terminal
+ - o segundo codigo passar o parametro --ruby, depois da instalação do rvm, irá pegar a última versão disponivel
+ - executar o comando source /home/brunno/.rvm/scripts/rvm
+ - ruby -v
+ 
+
